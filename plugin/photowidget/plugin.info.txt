@@ -1,0 +1,7 @@
+base   photowidget
+author Jonathan Tsai
+email  tryweb@ichiayi.com
+date   2012-09-11
+name   PhotoWidget Plugin
+desc   Add Photo Widget to your wiki
+url    http://www.dokuwiki.org/plugin:photowidget

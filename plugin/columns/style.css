@@ -1,0 +1,18 @@
+div.dokuwiki table.columns-plugin {
+  border: 0px;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+div.dokuwiki table.columns-plugin td {
+  vertical-align: top;
+  padding: 0 0.5em 0 0.5em;
+}
+
+div.dokuwiki table.columns-plugin td.first {
+  padding-left: 0;
+}
+
+div.dokuwiki table.columns-plugin td.last {
+  padding-right: 0;
+}
