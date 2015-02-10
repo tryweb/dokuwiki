@@ -1,0 +1,18 @@
+/**
+ * additional print CSS for the simple template
+ *
+ * @author:     Michael Klier <chi@chimeric.de>
+ * @homepage:   http://www.chimeric.de
+ */
+
+div.dokuwiki form#dw__search {
+  display: none;
+}
+
+div.dokuwiki div#tpl_simple_navi {
+  display: none;
+}
+
+div.dokuwiki a.action {
+  display: none;
+}
